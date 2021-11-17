@@ -1,4 +1,6 @@
-# Space-Invaders
+# Space Invaders
+
+## Description
 A game about Invaders that want to land to earth. A Tank will try to defend the invasion by fire missiles.
 
 ## How To Play
